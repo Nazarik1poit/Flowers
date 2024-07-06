@@ -1,0 +1,48 @@
+/* src/components/Flower.css */
+.flower {
+    position: relative;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    width: 200px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s;
+    cursor: pointer;
+  }
+  
+  .flower:hover {
+    transform: scale(1.05);
+  }
+  
+  .flower img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .flower h2 {
+    font-size: 1.2em;
+    margin: 10px 0;
+  }
+  
+  .flower p {
+    padding: 0 10px 10px;
+  }
+  
+  .rose-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+    pointer-events: none;
+  }
+  
+  .rose {
+    width: 30px;
+    height: 30px;
+    opacity: 0;
+  }
+  
