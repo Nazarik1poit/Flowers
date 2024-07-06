@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Nazarik1poit/Flowers.git/static/css/main.528f9df5.css",
+    "main.js": "/Nazarik1poit/Flowers.git/static/js/main.303e6058.js",
+    "static/js/453.66c962d7.chunk.js": "/Nazarik1poit/Flowers.git/static/js/453.66c962d7.chunk.js",
+    "index.html": "/Nazarik1poit/Flowers.git/index.html",
+    "main.528f9df5.css.map": "/Nazarik1poit/Flowers.git/static/css/main.528f9df5.css.map",
+    "main.303e6058.js.map": "/Nazarik1poit/Flowers.git/static/js/main.303e6058.js.map",
+    "453.66c962d7.chunk.js.map": "/Nazarik1poit/Flowers.git/static/js/453.66c962d7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.528f9df5.css",
+    "static/js/main.303e6058.js"
+  ]
+}
